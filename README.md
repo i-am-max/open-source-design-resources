@@ -1,6 +1,6 @@
 # Open Source Design Resources
 
-Open source design resources from the web
+A collection of open source design resources from the web
 
 ## Color Palettes
 
