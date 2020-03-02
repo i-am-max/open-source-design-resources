@@ -46,3 +46,5 @@ A collection of open source design resources from the web
 Please refer to the following repos
 
 - [jaywcjlove/awesome-uikit](https://github.com/jaywcjlove/awesome-uikit#ui-components)
+
+- [dimitropoulos/react-ui-roundup](https://github.com/dimitropoulos/react-ui-roundup)
