@@ -51,3 +51,5 @@ Please refer to the following repos
 - [dimitropoulos/react-ui-roundup](https://github.com/dimitropoulos/react-ui-roundup/blob/master/README.md)
 
 - https://github.com/bradtraversy/design-resources-for-developers#fonts
+
+- https://adele.uxpin.com/
