@@ -42,6 +42,8 @@ A collection of open source design resources from the web
 | Bytesize                | 101          | ✔️       |       | iOS-like      | [link](https://danklammer.com/bytesize-icons/)                      | [danklammer/bytesize-icons](https://github.com/danklammer/bytesize-icons)                                                | [MIT](https://github.com/danklammer/bytesize-icons/blob/master/LICENSE.md)       |
 | Heroicons               | 104          | ✔️       | ✔️    | Material-like | [link (unofficial)](https://heroicons.dev/)                         | [refactoringui/heroicons](https://github.com/refactoringui/heroicons)                                                    | [MIT](https://github.com/refactoringui/heroicons/blob/master/LICENSE)            |
 
+https://github.com/chromeos/static-site-scaffold/blob/e67fbae97402f0e1b3d115a6307935837d11af1a/src/sass/globals/_colors.scss
+
 ## UI Components
 
 Please refer to the following repos
